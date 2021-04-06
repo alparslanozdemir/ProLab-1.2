@@ -5,3 +5,12 @@
 .kapi	NOR	2	d	a	b	3
 
 .son
+
+# kare ile yazılanlar yorum,
+# .include ile başlayan satır, 2. bir devre bağlamayı sağlar,
+# .giris, devrenin girişlerini belirtir,
+# .cikis, devrenin çıkış noktasını belirtir,
+# .kapi, devreye mantık kapısı eklemeyi sağlar.
+# .kapi parametresinden sonra kapı türü, kaç tane girişi olduğu, girişleri, çıkışı burada yazılan sırayla belirtilir.
+# .kapi değişkeninin sonundaki sayı, kapının kaç nanosaniye gecikme ile çalışacağını belirtir.
+# .son, dosyanın tamamlandığını belirtir.
