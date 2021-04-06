@@ -1,7 +1,7 @@
 # ProLab-1.2
 One of my school project that simulates electrical circuit with given text file in a spesific format.
 
-Description will be in Turkish language, because program developed in local language.
+Description will be in Turkish language, because program developed in my local language (Turkish).
 
 Elektrik devrelerinin simülasyonunu yapmak amacıyla C dilinde geliştirilmiş okul projem.
 ## --AÇIKLAMA--
